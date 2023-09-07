@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
-{
+#define do main()
+do {
   printf("Hello, World!\n");
 }
